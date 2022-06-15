@@ -1,0 +1,22 @@
+segment_sources:
+  I647FB5F9:
+    type: origin_type
+    relation: translation
+    language: en
+  IDD7C7944:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  eeb617281d35455ebbcf2a310ada9c5a:
+    I647FB5F9: 7403c1ee08fc4ae29822ea08418d9f41
+    IDD7C7944: 5b65b8b8531b4e5881b8f74e0f41f5c5
+  475e3c3ec0a140ec9a1d33be4ccd9a77:
+    I647FB5F9: d1852ef5d0ac458cab05cbca48170aba
+    IDD7C7944: 8bfef6cd119841ccb9d61ee4def1695b
+  437ffb79ac2d40bea0f2b8f414da7c25:
+    I647FB5F9: 34658b7e52574171b8fca36e5fdbd44e
+    IDD7C7944: 0e1e4c7a7b9749e090a7ee24a78078a9
+  d63bbd67d7f944b49f41950bb845cad8:
+    I647FB5F9: e879632936084b5a92d375c7bfc9d71c
+    IDD7C7944: a4b22d802683427a8f620a19ba396f77
